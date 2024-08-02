@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+td {
+    color: #35373d;
+    text-align: center;
+    font-size: 50px;
+    height: 95px;
+    width: 95px;
+    border-radius: 10px;
+    cursor: pointer;
+}
